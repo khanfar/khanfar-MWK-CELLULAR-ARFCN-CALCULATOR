@@ -2,6 +2,9 @@
 
 A powerful GUI application for calculating cellular network frequencies and providing detailed network information based on ARFCN (Absolute Radio Frequency Channel Number).
 
+![Screenshot 2024-12-29 080433](https://github.com/user-attachments/assets/6f4b80f1-7b7c-41cf-adaa-8c7df5a62b87)
+
+
 ## Features
 
 ### 1. Frequency Calculations
